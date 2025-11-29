@@ -28,7 +28,7 @@ I create clean, fast, futuristic applications that feel alive.
 I focus on useful systems, smart automation, and interfaces that feel smooth and reactive.
 
 - 🎓 CSE student at North South University  
-- 🧠 Deep interest in system design, AI tools & modern UI/UX  
+- 🧠 Deep interest in system design, AI tools & modern UI/UX and cryptocurrency
 - 🔥 Consistency and craftsmanship are my core values  
 - 💻 Transforming ideas into real, polished products  
 
@@ -46,13 +46,6 @@ I focus on useful systems, smart automation, and interfaces that feel smooth and
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeCraftsmaniac&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCraftsmaniac&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 🧬 3D Contribution Graph  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodeCraftsmaniac/CodeCraftsmaniac/main/profile-3d-contrib/profile-night-rainbow.svg" width="650" />
 </p>
 
 ---
