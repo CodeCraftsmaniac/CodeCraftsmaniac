@@ -43,18 +43,10 @@ I focus on useful systems, smart automation, and interfaces that feel smooth and
 
 ## 📊 GitHub Intelligence (Auto-updating)
 
-<div align="center">
-
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeCraftsmaniac&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=00eaff&border_radius=20" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeCraftsmaniac&theme=tokyonight&background=00000000&border=00eaff&border_radius=20" height="170" />
-
-  <!-- Animated Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeCraftsmaniac&theme=tokyo-night&hide_border=true&area=true" />
-
-  <!-- Animated Snake -->
-  <img src="https://raw.githubusercontent.com/CodeCraftsmaniac/CodeCraftsmaniac/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeCraftsmaniac&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCraftsmaniac&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
