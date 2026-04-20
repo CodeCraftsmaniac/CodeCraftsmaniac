@@ -39,28 +39,16 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- 👨‍💻 ABOUT ME — Colorful Badge Grid -->
+<!-- 👨‍💻 ABOUT ME — Compact Premium -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=14F2B2&center=true&vCenter=true&width=600&lines=Building+tools+that+feel+alive;Full+Stack+Developer+%7C+System+Architect;Currently+crafting+NSUNexus" alt="About Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=14F2B2&center=true&vCenter=true&width=500&lines=Building+tools+that+feel+alive;Full+Stack+%7C+System+Architect+%7C+AI+Engineer;Currently+crafting+NSUNexus" alt="About Typing" />
 
-</div>
+<br/>
 
-<table width="100%" cellpadding="10">
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://media.giphy.com/media/LnQffWCmN6b0tQl0YC/giphy.gif" width="25"> <strong>Md Rakibul Hasan Rana</strong>
-
-<br/><br/>
-
-📍 **Dhaka, Bangladesh** 🇧🇩
-
-🎓 **CSE** @ North South University
-
-🧠 **Interests:**
+📍 **Dhaka, Bangladesh** 🇧🇩 &nbsp;·&nbsp; 🎓 **CSE @ North South University** &nbsp;·&nbsp; 🚀 **Creator of [NSUNexus](https://github.com/CodeCraftsmaniac/nsunexus.app)**
 
 <br/>
 
@@ -69,18 +57,7 @@
 <img src="https://img.shields.io/badge/Web3-Decentralized-F7931A?style=flat-square&logo=ethereum&logoColor=white&labelColor=0a1628" />
 <img src="https://img.shields.io/badge/UI-UX_Engineering-14F2B2?style=flat-square&logo=figma&logoColor=black&labelColor=0a1628" />
 
-</td>
-<td width="50%" valign="top">
-
-🚀 **Currently Building:**
-
-<a href="https://github.com/CodeCraftsmaniac/nsunexus.app">
-  <img src="https://img.shields.io/badge/NSUNexus-50%2B_Features-0EAEFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white&labelColor=0a1628" />
-</a>
-
 <br/><br/>
-
-⚡ **Tech Breakdown:**
 
 <img src="https://img.shields.io/badge/Frontend-Flutter%20%7C%20React%20%7C%20Next.js-0EAEFF?style=flat-square&logo=flutter&logoColor=white&labelColor=0a1628" />
 <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Python-14F2B2?style=flat-square&logo=node.js&logoColor=white&labelColor=0a1628" />
@@ -90,13 +67,9 @@
 
 <br/><br/>
 
-🔥 **Philosophy:**
+> 💡 *"Build tools that feel alive — fast, smooth, genuinely useful"*
 
-> *"Build tools that feel alive — fast, smooth, genuinely useful"*
-
-</td>
-</tr>
-</table>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -255,28 +228,6 @@ A full-stack platform serving **20,000+ NSU students** with AI-powered tools, re
 </td>
 </tr>
 </table>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!-- 🐍 CONTRIBUTION SNAKE — Animated -->
-<div align="center">
-
-## 🐍 My Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeCraftsmaniac/CodeCraftsmaniac/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeCraftsmaniac/CodeCraftsmaniac/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/CodeCraftsmaniac/CodeCraftsmaniac/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
-</picture>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!-- 🌈 Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
