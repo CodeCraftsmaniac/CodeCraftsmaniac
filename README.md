@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2200&pause=600&color=5CE1FF&vCenter=true&width=700&height=50&lines=Md+Rakibul+Hasan+Rana;Full+Stack+Developer+%7C+System+Architect;Creator+of+NSUNexus;Building+tools+that+feel+alive" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2137,100:0EAEFF&height=180&section=header&text=&fontSize=0&animation=fadeIn" alt="Header Wave" width="100%" />
-
 <br/>
 
 <!-- 🔮 Glowing Badges -->
@@ -45,6 +41,10 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=14F2B2&center=true&vCenter=true&width=500&lines=Building+tools+that+feel+alive;Full+Stack+%7C+System+Architect+%7C+AI+Engineer;Currently+crafting+NSUNexus" alt="About Typing" />
+
+<br/>
+
+<a href="https://github.com/CodeCraftsmaniac"><img src="https://img.shields.io/badge/%E2%9C%A6_Md_Rakibul_Hasan_Rana-0EAEFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1628" alt="Name" /></a>
 
 <br/>
 
@@ -82,7 +82,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsmaniac&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=0EAEFF&text_color=c9d1d9&langs_count=8&size_weight=0.5&count_weight=0.5" width="450" alt="Language Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsmaniac&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0EAEFF&icon_color=14F2B2&text_color=c9d1d9&langs_count=8&size_weight=0.5&count_weight=0.5" width="420" alt="Language Stats" />
 
 </div>
 
