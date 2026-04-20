@@ -97,46 +97,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- 🚀 FLAGSHIP PROJECT — Premium Card -->
-<div align="center">
-
-## 🚀 Flagship Project
-
-</div>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🎓 [NSUNexus](https://github.com/CodeCraftsmaniac/nsunexus.app)
-**The Intelligent Student Portal for North South University**
-
-A full-stack platform serving **20,000+ NSU students** with AI-powered tools, real-time data, and premium UI.
-
-**Stack:** `Flutter` · `React` · `Express` · `Supabase` · `Gemini AI` · `Cloud Run`
-
-**Scale:** 1,835 tasks · 38 screens · 50+ features · 25 database tables
-
-</td>
-<td width="45%" valign="top">
-
-**✨ Core Features:**
-- 🤖 **Nexus AI** — Gemini 2.5 Flash study assistant + advisor
-- 📊 **CGPA Calculator** — 4 tabs: calculate, what-if, retake, probation recovery
-- 📄 **OCR Scanner** — 3-tier: ML Kit → Cloud Vision → Azure Doc Intelligence
-- 🔄 **File Converter** — 50 formats across 5 categories
-- 📚 **Canvas LMS** — assignments, grades, modules, what-if grades
-- 🏫 **38 Screens** — advising, courses, clubs, blood bank, marketplace & more
-- 🔔 **FCM Push** — deadline alerts, blood bank requests, notice alerts
-- 🛡️ **Trust Badges** — data source transparency on every screen
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!-- 📊 GITHUB ANALYTICS — Premium Dark Cards -->
+<!--  GITHUB ANALYTICS — Premium Dark Cards -->
 <div align="center">
 
 ## 📊 GitHub Analytics
@@ -175,59 +136,6 @@ A full-stack platform serving **20,000+ NSU students** with AI-powered tools, re
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!-- 🏗️ FEATURED REPOS — Premium Cards -->
-<div align="center">
-
-## 🏗️ Featured Repositories
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-<a href="https://github.com/CodeCraftsmaniac/windsurf-quota">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsmaniac&repo=windsurf-quota&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0EAEFF&icon_color=14F2B2&text_color=c9d1d9" alt="Windsurf Quota" />
-</a>
-
-<br/>
-
-**Real-time AI quota tracker** — daily, weekly, Cascade messages, flow actions, overage balance. Zero login. Zero config.
-
-`JavaScript` `HTML`
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<a href="https://github.com/CodeCraftsmaniac/CSECurriculamAnalysisFinal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsmaniac&repo=CSECurriculamAnalysisFinal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0EAEFF&icon_color=14F2B2&text_color=c9d1d9" alt="CSE Curriculum" />
-</a>
-
-<br/>
-
-**NSU CSE curriculum deep analysis** with interactive visualizations and prerequisite mapping.
-
-`HTML` `JavaScript`
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<a href="https://github.com/CodeCraftsmaniac/Fishcake-dApp-Tool-Own">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsmaniac&repo=Fishcake-dApp-Tool-Own&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0EAEFF&icon_color=14F2B2&text_color=c9d1d9" alt="Fishcake dApp" />
-</a>
-
-<br/>
-
-**Web3 decentralized application tool** — blockchain integration with modern UI.
-
-`TypeScript` `Web3`
-
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
