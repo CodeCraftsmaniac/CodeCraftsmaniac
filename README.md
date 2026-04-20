@@ -3,12 +3,10 @@
      Ultra-premium, animated, dark-themed, gradient-accented
      ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- 🌌 HERO SECTION — Animated Typing + Glow Frame -->
+<!-- 🌌 HERO SECTION — Ocean Wave Header -->
 <div align="center">
 
-<a href="https://github.com/CodeCraftsmaniac">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2200&pause=600&color=5CE1FF&vCenter=true&width=700&height=50&lines=Md+Rakibul+Hasan+Rana;Full+Stack+Developer+%7C+System+Architect;Creator+of+NSUNexus;Building+tools+that+feel+alive" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2137,100:0EAEFF&height=180&section=header&text=&fontSize=0&animation=fadeIn" alt="Header Wave" width="100%" />
 
 <br/>
 
