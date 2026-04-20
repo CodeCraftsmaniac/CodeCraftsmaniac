@@ -57,11 +57,53 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Frontend-Flutter%20%7C%20React%20%7C%20Next.js-0EAEFF?style=flat-square&logo=flutter&logoColor=white&labelColor=0a1628" />
-<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Python-14F2B2?style=flat-square&logo=node.js&logoColor=white&labelColor=0a1628" />
-<img src="https://img.shields.io/badge/Database-Supabase%20%7C%20PostgreSQL-6A5ACD?style=flat-square&logo=supabase&logoColor=white&labelColor=0a1628" />
-<img src="https://img.shields.io/badge/Cloud-GCP%20%7C%20Firebase%20%7C%20Docker-FF6EC7?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0a1628" />
-<img src="https://img.shields.io/badge/AI-Gemini_2.5%20%7C%20Cloud_Vision-FFD700?style=flat-square&logo=google&logoColor=black&labelColor=0a1628" />
+<!-- 🎨 Frontend -->
+<img src="https://img.shields.io/badge/Flutter-Dart-0EAEFF?style=flat-square&logo=flutter&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/HTML5-CSS3-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0a1628" />
+
+<br/>
+
+<!-- ⚙️ Backend -->
+<img src="https://img.shields.io/badge/Node.js-20-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Express-4-000000?style=flat-square&logo=express&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/FastAPI-0.109-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/REST_API-Design-14F2B2?style=flat-square&logo=swagger&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/GraphQL-Apollo-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=0a1628" />
+
+<br/>
+
+<!-- 🗄️ Database -->
+<img src="https://img.shields.io/badge/Supabase-Auth-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/MongoDB-7-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/RLS-Policies-6A5ACD?style=flat-square&logo=sqlite&logoColor=white&labelColor=0a1628" />
+
+<br/>
+
+<!-- ☁️ Cloud & DevOps -->
+<img src="https://img.shields.io/badge/GCP-Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Firebase-FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Vercel-Edge-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Cloudflare-R2-F38020?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0a1628" />
+
+<br/>
+
+<!-- 🤖 AI & ML -->
+<img src="https://img.shields.io/badge/Gemini_2.5-Flash-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Google_Cloud_Vision-API-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Azure_Doc_Intelligence-AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/ML_Kit-OCR-F76D4F?style=flat-square&logo=firebase&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-Design-FF6EC7?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white&labelColor=0a1628" />
 
 <br/><br/>
 
