@@ -40,40 +40,64 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- 👨‍💻 ABOUT ME — Code Block Style -->
+<!-- 👨‍💻 ABOUT ME — Colorful Badge Grid -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=14F2B2&center=true&vCenter=true&width=600&lines=Building+tools+that+feel+alive;Full+Stack+Developer+%7C+System+Architect;Currently+crafting+NSUNexus" alt="About Typing" />
+
 </div>
 
-<!-- Fancy code block with syntax highlighting -->
-```typescript
-const rakibul: Developer = {
-  location: "Dhaka, Bangladesh 🇧🇩",
-  education: "CSE @ North South University",
-  currentFocus: "NSUNexus — Intelligent Student Portal",
-  
-  interests: [
-    "System Design & Architecture",
-    "AI/ML & Gemini Integration", 
-    "Web3 & Decentralized Systems",
-    "Premium UI/UX Engineering"
-  ],
-  
-  philosophy: "Build tools that feel alive — fast, smooth, genuinely useful",
-  
-  stack: {
-    frontend:  ["Flutter", "React", "Next.js", "TypeScript"],
-    backend:   ["Node.js", "Express", "Python", "FastAPI"],
-    database:  ["Supabase", "PostgreSQL", "MongoDB"],
-    cloud:     ["GCP", "Cloud Run", "Firebase", "Docker"],
-    ai:        ["Gemini 2.5", "Cloud Vision", "Azure Doc Intelligence"]
-  },
-  
-  currentlyBuilding: () => "NSUNexus — 50+ features, 38 screens, serving 20K+ students"
-};
-```
+<table width="100%" cellpadding="10">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/LnQffWCmN6b0tQl0YC/giphy.gif" width="25"> <strong>Md Rakibul Hasan Rana</strong>
+
+<br/><br/>
+
+📍 **Dhaka, Bangladesh** 🇧🇩
+
+🎓 **CSE** @ North South University
+
+🧠 **Interests:**
+
+<br/>
+
+<img src="https://img.shields.io/badge/System_Design-Architecture-0EAEFF?style=flat-square&logo=circle&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/AI-ML_Integration-FF6EC7?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Web3-Decentralized-F7931A?style=flat-square&logo=ethereum&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/UI-UX_Engineering-14F2B2?style=flat-square&logo=figma&logoColor=black&labelColor=0a1628" />
+
+</td>
+<td width="50%" valign="top">
+
+🚀 **Currently Building:**
+
+<a href="https://github.com/CodeCraftsmaniac/nsunexus.app">
+  <img src="https://img.shields.io/badge/NSUNexus-50%2B_Features-0EAEFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white&labelColor=0a1628" />
+</a>
+
+<br/><br/>
+
+⚡ **Tech Breakdown:**
+
+<img src="https://img.shields.io/badge/Frontend-Flutter%20%7C%20React%20%7C%20Next.js-0EAEFF?style=flat-square&logo=flutter&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Python-14F2B2?style=flat-square&logo=node.js&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Database-Supabase%20%7C%20PostgreSQL-6A5ACD?style=flat-square&logo=supabase&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Cloud-GCP%20%7C%20Firebase%20%7C%20Docker-FF6EC7?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/AI-Gemini_2.5%20%7C%20Cloud_Vision-FFD700?style=flat-square&logo=google&logoColor=black&labelColor=0a1628" />
+
+<br/><br/>
+
+🔥 **Philosophy:**
+
+> *"Build tools that feel alive — fast, smooth, genuinely useful"*
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
