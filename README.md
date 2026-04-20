@@ -33,10 +33,9 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <!-- 🌈 Animated Divider -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
-</picture>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -110,15 +109,18 @@
 
 <br/><br/>
 
-<!-- Animated skill bars -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsmaniac&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=0EAEFF&text_color=c9d1d9&langs_count=8&size_weight=0.5&count_weight=0.5" width="450" alt="Language Stats" />
 
 </div>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -197,7 +199,9 @@ A full-stack platform serving **20,000+ NSU students** with AI-powered tools, re
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -270,7 +274,9 @@ A full-stack platform serving **20,000+ NSU students** with AI-powered tools, re
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
