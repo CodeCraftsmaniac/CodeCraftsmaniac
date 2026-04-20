@@ -36,7 +36,7 @@
 <!-- 👨‍💻 ABOUT ME — Compact Premium -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" style="vertical-align:middle"> About Me
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=14F2B2&center=true&vCenter=true&width=500&lines=Building+tools+that+feel+alive;Full+Stack+%7C+System+Architect+%7C+AI+Engineer;Currently+crafting+NSUNexus" alt="About Typing" />
 
@@ -46,7 +46,9 @@
 
 <br/>
 
-📍 **Dhaka, Bangladesh** 🇧🇩 &nbsp;·&nbsp; 🎓 **CSE @ North South University** &nbsp;·&nbsp; 🚀 **Creator of [NSUNexus](https://github.com/CodeCraftsmaniac/nsunexus.app)**
+<img src="https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh-0EAEFF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Education-CSE_%40_NSU-6A5ACD?style=flat-square&logo=graduationcap&logoColor=white&labelColor=0a1628" />
+<a href="https://github.com/CodeCraftsmaniac/nsunexus.app"><img src="https://img.shields.io/badge/Building-NSUNexus-14F2B2?style=flat-square&logo=rocket&logoColor=white&labelColor=0a1628" alt="NSUNexus" /></a>
 
 <br/>
 
@@ -107,7 +109,7 @@
 
 <br/><br/>
 
-> 💡 *"Build tools that feel alive — fast, smooth, genuinely useful"*
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lightbulb/lightbulb-original.svg" width="14" style="vertical-align:middle"> *"Build tools that feel alive — fast, smooth, genuinely useful"*
 
 </div>
 
@@ -116,13 +118,17 @@
 <!-- 🛠️ TECH STACK — Animated Skill Icons -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEChkyldoN8s0qs/giphy.gif" width="25"> Tech Arsenal
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" style="vertical-align:middle"> Tech Arsenal
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,flutter,dart,python,supabase,postgres,mongodb,tailwind,git,github,figma,docker,firebase,vercel,gcp&perLine=10&theme=dark" alt="Tech Stack" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsmaniac&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0EAEFF&icon_color=14F2B2&text_color=c9d1d9&langs_count=8&size_weight=0.5&count_weight=0.5" width="420" alt="Language Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsmaniac&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0EAEFF&icon_color=14F2B2&text_color=c9d1d9&langs_count=8&size_weight=0.5&count_weight=0.5" width="320" alt="Language Stats" />
+</a>
 
 </div>
 
@@ -140,7 +146,7 @@
 <!--  GITHUB ANALYTICS — Premium Dark Cards -->
 <div align="center">
 
-## 📊 GitHub Analytics
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" width="25" style="vertical-align:middle"> GitHub Analytics
 
 <br/>
 
@@ -162,10 +168,10 @@
 <!-- 🏆 TROPHY CASE -->
 <div align="center">
 
-## 🏆 Trophy Case
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldb/azuresqldb-original.svg" width="25" style="vertical-align:middle"> Trophy Case
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeCraftsmaniac&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeCraftsmaniac&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="Trophies" />
 </a>
 
 </div>
@@ -182,7 +188,7 @@
 <!-- 🌐 CONNECT — Premium Badges -->
 <div align="center">
 
-## 🌐 Connect
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="25" style="vertical-align:middle"> Connect
 
 <br/>
 
