@@ -7,7 +7,7 @@
 <img src="./assets/fullstack-spectrum.svg" width="100%" alt="Full-stack engineering range from product definition to production scale" />
 
 ## <img src="./assets/icon-range.svg" width="27" alt="" /> 02 / Engineering range
-<img src="./assets/engineering-range.svg" width="100%" alt="Engineering range across product experience, application engineering, data intelligence, and platform delivery" />
+<img src="./assets/engineering-range-panel.svg" width="100%" alt="Engineering range across product experience, application engineering, data intelligence, and platform delivery" />
 
 > I don't treat frontend, backend, infrastructure, and AI as separate islands. I engineer them as one product system—with clear contracts, deliberate trade-offs, and a consistent standard from interface to deployment.
 
